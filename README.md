@@ -1,150 +1,69 @@
-<!DOCTYPE html>
-<html lang="en">
+# Khyati Dhawan
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Khyati Dhawan</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f7f7f7;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-        }
+👩‍💻 **iOS Developer | Swift Enthusiast | Tech Evangelist**
 
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background-color: #fff;
-            border-radius: 10px;
-            padding: 30px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
+## About Me
 
-        h1 {
-            text-align: center;
-            color: #333;
-        }
+I am a passionate iOS Developer based in New Delhi, India, with approximately 7 years of extensive experience in crafting robust and user-friendly applications primarily using Swift. I have a keen interest in exploring new technologies and methodologies to enhance the development process and deliver top-notch solutions.
 
-        h2 {
-            color: #007bff;
-            margin-top: 20px;
-        }
+📞 **Phone:** +91 7726079357  
+📧 **Email:** khyatidhawan20@gmail.com  
+🔗 **LinkedIn:** [Khyati Dhawan](https://linkedin.com/in/khyatidhawan)
 
-        p {
-            line-height: 1.6;
-        }
+## Technical Skills
 
-        .work-experience,
-        .education,
-        .language-skills {
-            margin-top: 20px;
-        }
+- Swift (6 years)
+- SwiftUI (3 years)
+- MVVM (3 years)
+- MVC (3 years)
+- VIPER (1 year)
+- Xcode (6 years)
+- Interface Builder (3 years)
+- Gitlab (6 years)
+- Agile Methodology/Scrum (4 years)
+- JIRA (4 years)
 
-        .tech-skills ul,
-        .work-experience ul,
-        .education ul,
-        .language-skills ul {
-            list-style-type: none;
-            padding: 0;
-        }
+## Work Experience
 
-        .tech-skills li,
-        .work-experience li,
-        .education li,
-        .language-skills li {
-            margin-bottom: 10px;
-        }
+### Software Engineer at Deutsche Telekom Digital Labs, Gurugram, India
+*(05/2021 – Present)*
 
-        .contact-info {
-            margin-top: 20px;
-            font-size: 1.1em;
-        }
+🚀 **Product:** OneApp - A unified mobile application for telecom services
 
-        .contact-info p {
-            margin: 5px 0;
-        }
+- Developed multiple features using SWIFT, VIPER, iOS 16.2, and Xcode 14.2.
+- Spearheaded the creation of pivotal features like the Scratch card and Sweepstake game for Christmas 2022, resulting in a remarkable 10X surge in app traffic.
+- Engineered the integration of a new payment method, SEPA mandate, enhancing the app's capabilities for seamless bill payments.
+- Collaborated with Red Bull for rebranding the app for the Polish market and introduced a Summer app theme for diverse brandings.
+- Implemented the personalization feature for the app's dashboard, enhancing user experience.
+- Facilitated the onboarding process for a new team member and conducted informative sessions about the app's dashboard and overview screen.
+- Recognized with the T-Avengers award for outstanding contributions in Q2 2023-24.
 
-        .contact-info a {
-            color: #007bff;
-            text-decoration: none;
-        }
+🔧 **Technologies Utilized:** SWIFT, VIPER, CoreGraphics, SWInject, iOS 16, Xcode 14.2
 
-        .emoji {
-            font-size: 1.2em;
-            margin-right: 5px;
-        }
+### Module Lead at Sopra Steria India, Noida, India
+*(07/2017 – 05/2022)*
 
-        .profile-picture {
-            text-align: center;
-        }
+🚀 **Products:**
+- Mobile Fire Services (MFS)
+- Mobile Police Services (MPS)
+- Age Verification App
+- Security Advisory Tracking System (SATS)
 
-        .profile-picture img {
-            border-radius: 50%;
-            margin-bottom: 20px;
-        }
+- Worked in an agile team, developing apps for the German Fire Police and Police Services.
+- Developed solutions for capturing fingerprints and age verification.
+- Led the frontend development of the Security Advisory Tracking System (SATS) application.
 
-        .stats-container {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 20px;
-        }
+🔧 **Technologies Utilized:** SwiftUI, Swift, MVVM, Xcode 13, iOS 14
 
-        .stats-container p {
-            text-align: center;
-        }
+## Education
 
-        .stats-container img {
-            margin-bottom: 10px;
-        }
-    </style>
-</head>
+**Bachelor of Technology / Information Technology**  
+Manipal University Jaipur, Jaipur, India  
+*June 2013 – June 2017*
 
-<body>
-    <div class="container">
-        <div class="profile-picture">
-            <img src="https://user-images.githubusercontent.com/105229178/167476133-8c94076c-c081-4452-a8c0-7a572867e472.png"
-                alt="Profile Picture" width="200" height="200">
-        </div>
-        <h1>Hi 👋, I'm Khyati Dhawan</h1>
-        <h3>A Girl Trying to Figure Out Stuff!!!</h3>
-        <div class="contact-info">
-            <p class="emoji">🌱</p>
-            <p>I’m currently learning <strong>full stack development</strong></p>
-            <p class="emoji">📫</p>
-            <p>How to reach me <a href="mailto:khyatidhawan20@gmail.com">khyatidhawan20@gmail.com</a></p>
-            <p class="emoji">⚡</p>
-            <p>Fun fact: I like to keep things cool and subtle.</p>
-        </div>
-        <h3>Connect with me:</h3>
-        <!-- Add your connect with me links here -->
-        <h3>Languages and Tools:</h3>
-        <p> <!-- Add your languages and tools icons here -->
-            <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-                    alt="android" width="40" height="40"></a>
-            <!-- Add more icons here -->
-        </p>
-        <div class="stats-container">
-            <div>
-                <p>Top Languages</p>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khyatidhawan24&show_icons=true&locale=en&layout=compact"
-                    alt="Top Languages">
-            </div>
-            <div>
-                <p>Github Stats</p>
-                <img src="https://github-readme-stats.vercel.app/api?username=khyatidhawan24&show_icons=true&locale=en"
-                    alt="Github Stats">
-            </div>
-            <div>
-                <p>Streak Stats</p>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=khyatidhawan24&"
-                    alt="Streak Stats">
-            </div>
-        </div>
-    </div>
-</body>
+## Language Skills
 
-</html>
+- English: C2
+- Hindi: Native Speaker
+
+Feel free to reach out to discuss exciting opportunities or collaboration projects! 🚀
