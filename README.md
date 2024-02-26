@@ -76,76 +76,73 @@
             font-size: 1.2em;
             margin-right: 5px;
         }
+
+        .profile-picture {
+            text-align: center;
+        }
+
+        .profile-picture img {
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
+
+        .stats-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .stats-container p {
+            text-align: center;
+        }
+
+        .stats-container img {
+            margin-bottom: 10px;
+        }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <h1>Khyati Dhawan</h1>
+        <div class="profile-picture">
+            <img src="https://user-images.githubusercontent.com/105229178/167476133-8c94076c-c081-4452-a8c0-7a572867e472.png"
+                alt="Profile Picture" width="200" height="200">
+        </div>
+        <h1>Hi 👋, I'm Khyati Dhawan</h1>
+        <h3>A Girl Trying to Figure Out Stuff!!!</h3>
         <div class="contact-info">
-            <p class="emoji">👩‍💻</p>
-            <p>iOS Developer with a focus on Swift</p>
-            <p class="emoji">📍</p>
-            <p>New Delhi, India</p>
-            <p class="emoji">📞</p>
-            <p>+91 7726079357</p>
-            <p class="emoji">📧</p>
-            <p><a href="mailto:khyatidhawan20@gmail.com">khyatidhawan20@gmail.com</a></p>
-            <p class="emoji">🔗</p>
-            <p><a href="https://linkedin.com/in/khyatidhawan">LinkedIn</a></p>
+            <p class="emoji">🌱</p>
+            <p>I’m currently learning <strong>full stack development</strong></p>
+            <p class="emoji">📫</p>
+            <p>How to reach me <a href="mailto:khyatidhawan20@gmail.com">khyatidhawan20@gmail.com</a></p>
+            <p class="emoji">⚡</p>
+            <p>Fun fact: I like to keep things cool and subtle.</p>
         </div>
-        <h2>Technical Skills</h2>
-        <div class="tech-skills">
-            <ul>
-                <li>Swift (~5 years of project experience)</li>
-                <li>SwiftUI (3)</li>
-                <li>MVVM (3)</li>
-                <li>MVC (3)</li>
-                <li>VIPER (1)</li>
-                <li>XCode (4)</li>
-                <li>Interface Builder (3)</li>
-                <li>Gitlab (6)</li>
-                <li>Agile Methodology/Scrum (4)</li>
-                <li>JIRA (4)</li>
-            </ul>
-        </div>
-        <h2>Work Experience</h2>
-        <div class="work-experience">
-            <ul>
-                <li>
-                    <strong>Software Engineer</strong> | Deutsche Telekom Digital Labs, Gurugram, India | 05/2021 –
-                    Present
-                    <ul>
-                        <li>Product: OneApp - A unified mobile application for telecom services</li>
-                        <li>Collaborated within a dynamic team, utilizing SWIFT, VIPER, iOS 16.2, and XCODE 14.2 to
-                            develop multiple features.</li>
-                        <!-- Add more details of your work experience here -->
-                    </ul>
-                </li>
-                <li>
-                    <strong>Module Lead</strong> | Sopra Steria India, Noida, India | 07/2017 – 05/2022
-                    <ul>
-                        <!-- Add more details of your work experience here -->
-                    </ul>
-                </li>
-            </ul>
-        </div>
-        <h2>Education</h2>
-        <div class="education">
-            <ul>
-                <li>
-                    <strong>Bachelor of Technology / Information Technology</strong><br>
-                    Manipal University Jaipur, Jaipur, India<br>
-                    June 2013 – June 2017
-                </li>
-            </ul>
-        </div>
-        <h2>Language Skills</h2>
-        <div class="language-skills">
-            <ul>
-                <li>English: C2</li>
-                <li>Hindi: Mother tongue</li>
-            </ul>
+        <h3>Connect with me:</h3>
+        <!-- Add your connect with me links here -->
+        <h3>Languages and Tools:</h3>
+        <p> <!-- Add your languages and tools icons here -->
+            <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+                    alt="android" width="40" height="40"></a>
+            <!-- Add more icons here -->
+        </p>
+        <div class="stats-container">
+            <div>
+                <p>Top Languages</p>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khyatidhawan24&show_icons=true&locale=en&layout=compact"
+                    alt="Top Languages">
+            </div>
+            <div>
+                <p>Github Stats</p>
+                <img src="https://github-readme-stats.vercel.app/api?username=khyatidhawan24&show_icons=true&locale=en"
+                    alt="Github Stats">
+            </div>
+            <div>
+                <p>Streak Stats</p>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=khyatidhawan24&"
+                    alt="Streak Stats">
+            </div>
         </div>
     </div>
 </body>
