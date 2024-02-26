@@ -9,9 +9,6 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
-            background-image: url('https://cdn.pixabay.com/photo/2016/11/19/19/00/abstract-1845889_960_720.jpg');
-            background-size: cover;
-            background-repeat: no-repeat;
             padding: 20px;
             color: #333;
             margin: 0;
@@ -120,86 +117,67 @@
 
 <body>
     <div class="container">
-        <h1>Khyati Dhawan</h1>
-        <img src="https://github.com/KhyatiDhawan20/KhyatiDhawan20/blob/main/Photo_Intro-min.jpg" alt="Profile Picture" class="profile-picture">
+        <h1>Hi 👋, I'm Khyati Dhawan</h1>
+        <h3>A Girl Trying to figure out stuff!!!</h3>
+        <p align="left"> <img src="https://komarev.com/ghpvc/?username=khyatidhawan24&label=Profile%20views&color=0e75b6&style=flat" alt="khyatidhawan24" /> </p>
+        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khyatidhawan24" alt="khyatidhawan24" /></a> </p>
+        <p>- 🌱 I’m currently learning full stack development</p>
+        <p>- 📫 How to reach me <a href="mailto:Khyati21csu047@ncuindia.edu">Khyati21csu047@ncuindia.edu</a></p>
+        <p>- ⚡ Fun fact I like to keep things cool and subtle.</p>
 
-        <div class="section">
-            <h2>About Me</h2>
-            <p>I am a passionate iOS Developer based in New Delhi, India, with approximately 7 years of extensive experience in crafting robust and user-friendly applications primarily using Swift. I have a keen interest in exploring new technologies and methodologies to enhance the development process and deliver top-notch solutions.</p>
-        </div>
+        <h3>Languages and Tools:</h3>
+        <p align="left">
+            <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+                    alt="android" width="40" height="40" /></a>
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+                    alt="bootstrap" width="40" height="40" /></a>
+            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
+                    width="40" height="40" /></a>
+            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                    alt="css3" width="40" height="40" /></a>
+            <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img
+                    src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
+                    height="40" /></a>
+            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                    alt="html5" width="40" height="40" /></a>
+            <a href="https://www.java.com" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+                    alt="java" width="40" height="40" /></a>
+            <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img
+                    src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
+                    height="40" /></a>
+            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                    alt="mongodb" width="40" height="40" /></a>
+            <a href="https://www
 
-        <div class="section contact-info">
-            <h2>Contact Information</h2>
-            <p>📞 <strong>Phone:</strong> +91 7726079357 <br>
-                📧 <strong>Email:</strong> <a href="mailto:khyatidhawan20@gmail.com">khyatidhawan20@gmail.com</a> <br>
-                🔗 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/khyatidhawan">Khyati Dhawan</a></p>
-        </div>
+.mysql.com/" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                    alt="mysql" width="40" height="40" /></a>
+            <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                    alt="nodejs" width="40" height="40" /></a>
+            <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+                    alt="oracle" width="40" height="40" /></a>
+            <a href="https://www.python.org" target="_blank" rel="noreferrer"><img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                    alt="python" width="40" height="40" /></a>
+        </p>
 
-        <div class="section">
-            <h2>Technical Skills</h2>
-            <ul class="skills">
-                <li>Swift (6 years)</li>
-                <li>SwiftUI (3 years)</li>
-                <li>MVVM (3 years)</li>
-                <li>MVC (3 years)</li>
-                <li>VIPER (1 year)</li>
-                <li>Xcode (6 years)</li>
-                <li>Interface Builder (3 years)</li>
-                <li>Gitlab (6 years)</li>
-                <li>Agile Methodology/Scrum (4 years)</li>
-                <li>JIRA (4 years)</li>
-            </ul>
-        </div>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khyatidhawan24&show_icons=true&locale=en&layout=compact"
+                alt="khyatidhawan24" /></p>
 
-        <div class="section work-experience">
-            <h2>Work Experience</h2>
-            <h3>Software Engineer at Deutsche Telekom Digital Labs, Gurugram, India</h3>
-            <p><strong>Product:</strong> OneApp - A unified mobile application for telecom services</p>
-            <ul>
-                <li>Developed multiple features using SWIFT, VIPER, iOS 16.2, and Xcode 14.2.</li>
-                <li>Spearheaded the creation of pivotal features like the Scratch card and Sweepstake game for Christmas 2022, resulting in a remarkable 10X surge in app traffic.</li>
-                <li>Engineered the integration of a new payment method, SEPA mandate, enhancing the app's capabilities for seamless bill payments.</li>
-                <li>Collaborated with Red Bull for rebranding the app for the Polish market and introduced a Summer app theme for diverse brandings.</li>
-                <li>Implemented the personalization feature for the app's dashboard, enhancing user experience.</li>
-                <li>Facilitated the onboarding process for a new team member and conducted informative sessions about the app's dashboard and overview screen.</li>
-                <li>Recognized with the T-Avengers award for outstanding contributions in Q2 2023-24.</li>
-            </ul>
-            <p class="technologies-utilized"><strong>Technologies Utilized:</strong> SWIFT, VIPER, CoreGraphics, SWInject, iOS 16, Xcode 14.2</p>
-        </div>
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khyatidhawan24&show_icons=true&locale=en"
+                alt="khyatidhawan24" /></p>
 
-        <div class="section work-experience">
-            <h3>Module Lead at Sopra Steria India, Noida, India</h3>
-            <p><strong>Products:</strong></p>
-            <ul>
-                <li>Mobile Fire Services (MFS)</li>
-                <li>Mobile Police Services (MPS)</li>
-                <li>Age Verification App</li>
-                <li>Security Advisory Tracking System (SATS)</li>
-            </ul>
-            <p>Worked in an agile team, developing apps for the German Fire Police and Police Services.</p>
-            <p>Developed solutions for capturing fingerprints and age verification.</p>
-            <p>Led the frontend development of the Security Advisory Tracking System (SATS) application.</p>
-            <p class="technologies-utilized"><strong>Technologies Utilized:</strong> SwiftUI, Swift, MVVM, Xcode 13, iOS 14</p>
-        </div>
-
-        <div class="section education">
-            <h2>Education</h2>
-            <p><strong>Bachelor of Technology / Information Technology</strong><br>
-                Manipal University Jaipur, Jaipur, India<br>
-                <em>June 2013 – June 2017</em></p>
-        </div>
-
-        <div class="section languages">
-            <h2>Language Skills</h2>
-            <ul>
-                <li>English: C2</li>
-                <li>Hindi: Native Speaker</li>
-            </ul>
-        </div>
-
-        <div class="section call-to-action">
-            <p>Feel free to reach out to discuss exciting opportunities or collaboration projects! 🚀</p>
-        </div>
+        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khyatidhawan24&"
+                alt="khyatidhawan24" /></p>
     </div>
 </body>
 
