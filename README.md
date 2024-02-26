@@ -2,8 +2,6 @@
 
 👩‍💻 **iOS Developer | Swift Enthusiast | Tech Evangelist**
 
-![Profile Picture](https://drive.google.com/file/d/1yIyqFnx3IFTIl-ddbEXc4ZtFRFMf_VV4/view?usp=sharing)
-
 ## About Me
 
 I am a passionate iOS Developer based in New Delhi, India, with approximately 7 years of extensive experience in crafting robust and user-friendly applications primarily using Swift. I have a keen interest in exploring new technologies and methodologies to enhance the development process and deliver top-notch solutions.
