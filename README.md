@@ -121,7 +121,7 @@
 <body>
     <div class="container">
         <h1>Khyati Dhawan</h1>
-        <img src="https://example.com/profile_picture.jpg" alt="Profile Picture" class="profile-picture">
+        <img src="https://github.com/KhyatiDhawan20/KhyatiDhawan20/blob/main/Photo_Intro-min.jpg" alt="Profile Picture" class="profile-picture">
 
         <div class="section">
             <h2>About Me</h2>
