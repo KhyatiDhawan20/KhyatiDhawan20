@@ -8,18 +8,18 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            padding: 20px;
+            background-color: #f7f7f7;
             color: #333;
             margin: 0;
+            padding: 20px;
         }
 
         .container {
             max-width: 800px;
             margin: auto;
-            background-color: rgba(255, 255, 255, 0.9);
-            padding: 20px;
+            background-color: #fff;
             border-radius: 10px;
+            padding: 30px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
@@ -28,32 +28,43 @@
             color: #333;
         }
 
-        .profile-picture {
-            display: block;
-            margin: 0 auto;
-            border-radius: 50%;
-            width: 200px;
-            height: 200px;
-            object-fit: cover;
-            object-position: center;
+        h2 {
+            color: #007bff;
+            margin-top: 20px;
         }
 
-        .section {
-            margin-bottom: 30px;
-        }
-
-        .section h2 {
-            color: #333;
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 5px;
-        }
-
-        .section p {
+        p {
             line-height: 1.6;
         }
 
+        .work-experience,
+        .education,
+        .language-skills {
+            margin-top: 20px;
+        }
+
+        .tech-skills ul,
+        .work-experience ul,
+        .education ul,
+        .language-skills ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .tech-skills li,
+        .work-experience li,
+        .education li,
+        .language-skills li {
+            margin-bottom: 10px;
+        }
+
         .contact-info {
-            margin-bottom: 20px;
+            margin-top: 20px;
+            font-size: 1.1em;
+        }
+
+        .contact-info p {
+            margin: 5px 0;
         }
 
         .contact-info a {
@@ -61,123 +72,81 @@
             text-decoration: none;
         }
 
-        .skills ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        .work-experience .product {
-            font-weight: bold;
-        }
-
-        .work-experience ul {
-            padding-left: 20px;
-        }
-
-        .technologies-utilized {
-            font-style: italic;
-            color: #666;
-        }
-
-        .education {
-            margin-top: 30px;
-            border-top: 1px solid #ccc;
-            padding-top: 20px;
-        }
-
-        .languages {
-            margin-top: 30px;
-        }
-
-        .languages ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        .call-to-action {
-            text-align: center;
-            margin-top: 30px;
-        }
-
-        .call-to-action a {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: #fff;
-            text-decoration: none;
-            border-radius: 5px;
-            transition: background-color 0.3s;
-        }
-
-        .call-to-action a:hover {
-            background-color: #0056b3;
+        .emoji {
+            font-size: 1.2em;
+            margin-right: 5px;
         }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <h1>Hi 👋, I'm Khyati Dhawan</h1>
-        <h3>A Girl Trying to figure out stuff!!!</h3>
-        <p align="left"> <img src="https://komarev.com/ghpvc/?username=khyatidhawan24&label=Profile%20views&color=0e75b6&style=flat" alt="khyatidhawan24" /> </p>
-        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khyatidhawan24" alt="khyatidhawan24" /></a> </p>
-        <p>- 🌱 I’m currently learning full stack development</p>
-        <p>- 📫 How to reach me <a href="mailto:Khyati21csu047@ncuindia.edu">Khyati21csu047@ncuindia.edu</a></p>
-        <p>- ⚡ Fun fact I like to keep things cool and subtle.</p>
-
-        <h3>Languages and Tools:</h3>
-        <p align="left">
-            <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-                    alt="android" width="40" height="40" /></a>
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                    alt="bootstrap" width="40" height="40" /></a>
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                    width="40" height="40" /></a>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                    alt="css3" width="40" height="40" /></a>
-            <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img
-                    src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
-                    height="40" /></a>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                    alt="html5" width="40" height="40" /></a>
-            <a href="https://www.java.com" target="_blank" rel="noreferrer"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-                    alt="java" width="40" height="40" /></a>
-            <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img
-                    src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
-                    height="40" /></a>
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                    alt="mongodb" width="40" height="40" /></a>
-            <a href="https://www
-
-.mysql.com/" target="_blank" rel="noreferrer"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                    alt="mysql" width="40" height="40" /></a>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                    alt="nodejs" width="40" height="40" /></a>
-            <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-                    alt="oracle" width="40" height="40" /></a>
-            <a href="https://www.python.org" target="_blank" rel="noreferrer"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                    alt="python" width="40" height="40" /></a>
-        </p>
-
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khyatidhawan24&show_icons=true&locale=en&layout=compact"
-                alt="khyatidhawan24" /></p>
-
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khyatidhawan24&show_icons=true&locale=en"
-                alt="khyatidhawan24" /></p>
-
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khyatidhawan24&"
-                alt="khyatidhawan24" /></p>
+        <h1>Khyati Dhawan</h1>
+        <div class="contact-info">
+            <p class="emoji">👩‍💻</p>
+            <p>iOS Developer with a focus on Swift</p>
+            <p class="emoji">📍</p>
+            <p>New Delhi, India</p>
+            <p class="emoji">📞</p>
+            <p>+91 7726079357</p>
+            <p class="emoji">📧</p>
+            <p><a href="mailto:khyatidhawan20@gmail.com">khyatidhawan20@gmail.com</a></p>
+            <p class="emoji">🔗</p>
+            <p><a href="https://linkedin.com/in/khyatidhawan">LinkedIn</a></p>
+        </div>
+        <h2>Technical Skills</h2>
+        <div class="tech-skills">
+            <ul>
+                <li>Swift (~5 years of project experience)</li>
+                <li>SwiftUI (3)</li>
+                <li>MVVM (3)</li>
+                <li>MVC (3)</li>
+                <li>VIPER (1)</li>
+                <li>XCode (4)</li>
+                <li>Interface Builder (3)</li>
+                <li>Gitlab (6)</li>
+                <li>Agile Methodology/Scrum (4)</li>
+                <li>JIRA (4)</li>
+            </ul>
+        </div>
+        <h2>Work Experience</h2>
+        <div class="work-experience">
+            <ul>
+                <li>
+                    <strong>Software Engineer</strong> | Deutsche Telekom Digital Labs, Gurugram, India | 05/2021 –
+                    Present
+                    <ul>
+                        <li>Product: OneApp - A unified mobile application for telecom services</li>
+                        <li>Collaborated within a dynamic team, utilizing SWIFT, VIPER, iOS 16.2, and XCODE 14.2 to
+                            develop multiple features.</li>
+                        <!-- Add more details of your work experience here -->
+                    </ul>
+                </li>
+                <li>
+                    <strong>Module Lead</strong> | Sopra Steria India, Noida, India | 07/2017 – 05/2022
+                    <ul>
+                        <!-- Add more details of your work experience here -->
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <h2>Education</h2>
+        <div class="education">
+            <ul>
+                <li>
+                    <strong>Bachelor of Technology / Information Technology</strong><br>
+                    Manipal University Jaipur, Jaipur, India<br>
+                    June 2013 – June 2017
+                </li>
+            </ul>
+        </div>
+        <h2>Language Skills</h2>
+        <div class="language-skills">
+            <ul>
+                <li>English: C2</li>
+                <li>Hindi: Mother tongue</li>
+            </ul>
+        </div>
     </div>
 </body>
 
