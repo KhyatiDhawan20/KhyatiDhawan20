@@ -10,12 +10,12 @@ I am a passionate iOS Developer based in New Delhi, India, with approximately 7 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FFFFFF?color=FFFFFF)
 ![MVVM](https://img.shields.io/badge/MVVM-FFFFFF?color=FFFFFF)
-![VIPER](https://img.shields.io/badge/MVVM-FFFFFF?color=FFFFFF)
-![MVC](https://img.shields.io/badge/MVVM-FFFFFF?color=FFFFFF)
-![Xcode](https://img.shields.io/badge/MVVM-FFFFFF?color=FFFFFF)
-![Git](https://img.shields.io/badge/MVVM-FFFFFF?color=FFFFFF)
-![Scrum](https://img.shields.io/badge/MVVM-FFFFFF?color=FFFFFF)
-![JIRA](https://img.shields.io/badge/MVVM-FFFFFF?color=FFFFFF)
+![VIPER](https://img.shields.io/badge/VIPER-FFFFFF?color=FFFFFF)
+![MVC](https://img.shields.io/badge/MVC-FFFFFF?color=FFFFFF)
+![Xcode](https://img.shields.io/badge/Xcode-FFFFFF?color=FFFFFF)
+![Git](https://img.shields.io/badge/Git-FFFFFF?color=FFFFFF)
+![Scrum](https://img.shields.io/badge/Scrum-FFFFFF?color=FFFFFF)
+![JIRA](https://img.shields.io/badge/JIRA-FFFFFF?color=FFFFFF)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KhyatiDhawan20&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KhyatiDhawan20&theme=vision-friendly-dark&hide_border=false)<br/>
