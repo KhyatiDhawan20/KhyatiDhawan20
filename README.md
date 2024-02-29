@@ -4,7 +4,7 @@ I am a passionate iOS Developer based in New Delhi, India, with approximately 7 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khyati-dhawan-b6b70a127/) 
-[![Resume](https://img.shields.io/badge/Resume-8A2BE2)](https://docs.google.com/document/d/1jk9EDogfRZoUB_Ee_JSaplF5lY5ycgTfMClQ8eVvNVo/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-8A2BE2)](https://drive.google.com/file/d/1LeH1T6PZgLYIaHtQFi0GSC_ypmywGWT-/view?usp=sharing)
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
